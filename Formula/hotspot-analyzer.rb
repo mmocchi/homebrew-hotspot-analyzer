@@ -1,4 +1,4 @@
-class Mysqlpinger < Formula
+class HotspotAnalyzer < Formula
     desc "A Git repository analyzer that identifies code hotspots."
     homepage "https://github.com/mmocchi/hotspot-analyzer"
     url "https://github.com/mmocchi/hotspot-analyzer/releases/download/v0.0.1/hotspot-analyzer-macos-amd64.tar.gz"
